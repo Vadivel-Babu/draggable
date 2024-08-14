@@ -1,0 +1,26 @@
+.canvas-container {
+  width: 100vw;
+  height: 100vh;
+  overflow: auto;
+  position: relative;
+  background-color: white;
+}
+
+.card {
+  background-color: rgb(228, 227, 227);
+  border: 1px solid #ccc;
+  padding: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.para {
+  color: black;
+}
+.btn {
+  margin-top: 10px;
+}
+.flex {
+  display: flex;
+}
